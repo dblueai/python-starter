@@ -1,2 +1,4 @@
 bokeh
 bqplot
+torch
+torchvision
